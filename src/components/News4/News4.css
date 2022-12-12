@@ -54,6 +54,8 @@ li:hover,
 .data2 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap:20px;
+  padding:20px;
 }
 .data2 > div > img {
   width: 350px;
@@ -64,4 +66,6 @@ li:hover,
 }
 .prog{
   display: flex;
+  margin-left:100px;
+  margin-top: 40px;
 }

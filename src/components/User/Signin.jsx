@@ -7,7 +7,7 @@ export const Signin = () => {
   return (
     <div className="SignIn">
       <div className="Signin_header">
-        <h1 className="india">Back To India Today</h1>
+        <h1 className="india">Back To NaMo</h1>
         <img
           className="img"
           src="https://auth.indiatoday.in/sites/all/themes/itg/images/span_itg_group.png"

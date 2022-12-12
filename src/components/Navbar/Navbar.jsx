@@ -7,85 +7,15 @@ import { FaShareAlt } from "react-icons/fa";
 import { CgScreen } from "react-icons/cg";
 import { FaBitcoin } from "react-icons/fa";
 import { BiEditAlt } from "react-icons/bi";
+import HamburgerMenu from "./HamburgerMenu";
 
 export const Navbar = () => {
+  // return (
+  //   <HamburgerMenu/>
+  // )
   return (
     <div className="navbar" id="navbar">
-      <ul>
-        <li>
-          <a
-            href="https://www.mamp.info/namo/en/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-          Narendra Modi
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://malayalam.indiatoday.in/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            Malayalam
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.businesstoday.in/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            Business Today
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.dailyo.in/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            DailyO
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.aajtak.in/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            AajTak
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.thelallantop.com/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            Lallantop
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.thelallantop.com/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            Lallantop
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.gnttv.com/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            GNTTV
-          </a>
-        </li>
-        <li>
-          {" "}
-          <a
-            href="https://www.readersdigest.in/"
-            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
-          >
-            Reader's Digest
-          </a>
-        </li>
-      </ul>
+
       <hr />
       <div className="nav-centrall">
         <ul>
@@ -101,6 +31,9 @@ export const Navbar = () => {
       </div>
       <div className="nav-bottom" id="nav-bottom">
         <ul>
+       <li>
+       <HamburgerMenu/>
+       </li>
           <li>
             <Link
               to="/"
@@ -118,7 +51,7 @@ export const Navbar = () => {
               to="/myfeed"
               style={{ textDecoration: "none", color: "white" }}
             >
-              <BiEditAlt></BiEditAlt>
+              {/* <BiEditAlt></BiEditAlt> */}
               MY FEED
             </Link>
           </li>

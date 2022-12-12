@@ -3,7 +3,7 @@
   grid-template-areas:
     "a b c"
     "d e f";
-  margin-top: 30px;
+  margin:80px  10px 0 40px;
 }
 .news2div > div {
   width: 350px;
@@ -54,7 +54,7 @@
   width: 750px;
   padding: 15px;
   margin: auto;
-  /* margin-bottom: 100px; */
+  margin-top: 100px;
 }
 .magazinetitle {
   margin-top: -10px;
