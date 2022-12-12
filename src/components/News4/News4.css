@@ -1,0 +1,67 @@
+.data {
+  display: flex;
+  gap: 30px;
+  margin-left: -20px;
+}
+.data > div > img {
+  width: 350px;
+  height: 200px;
+}
+.data > div {
+  width: 350px;
+  padding: 20px;
+}
+.data > div > h3 {
+  text-align: left;
+}
+li,
+li + hr {
+  margin-left: -15px;
+  font-weight: 500;
+}
+.programmediv > img {
+  width: 100px;
+  height: 60px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.programmediv > img:hover {
+  transform: scale(1.2);
+}
+.programmediv {
+  display: flex;
+  width: 330px;
+  height: 70px;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+.programme {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.programmediv > h4 {
+  text-align: left;
+  margin-top: -0px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.data > div > h3:hover,
+li:hover,
+.programmediv > h4:hover,
+.data2 > div > h3:hover {
+  color: #193984;
+}
+.data2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.data2 > div > img {
+  width: 350px;
+  height: 200px;
+}
+.data2 > div {
+  width: 350px;
+}
+.prog{
+  display: flex;
+}

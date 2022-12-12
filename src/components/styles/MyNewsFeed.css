@@ -1,0 +1,74 @@
+.myfeed_main {
+  margin: auto;
+}
+
+.section {
+  display: flex;
+  background-color: rgb(238, 238, 238);
+  gap: 20px;
+  padding: 10px;
+  width: 1100px;
+  height: 25px;
+  margin: 10px;
+  margin-left: 150px;
+  margin-top: 100px;
+  /* -------------------------------- margin-left has given here ------------------ */
+}
+h3 {
+  margin-top: -0px;
+  font-size: 18px;
+  line-height: 18px;
+  text-align: left;
+  font-weight: 400;
+}
+.one {
+  font-weight: 500;
+}
+.line {
+  margin-top: 15px;
+  background-color: brown;
+  width: 120px;
+  height: 2px;
+}
+img {
+  margin: auto;
+  width: 100px;
+}
+#img {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 50px;
+  margin-left: 200px;
+  /* -------------------------------- margin-left has given here ------------------ */
+  margin-top: 30px;
+}
+.border {
+  border: 1px solid rgb(221, 220, 220);
+  background-color: rgb(221, 220, 220);
+  height: 100px;
+  width: 2px;
+  margin-left: 20px;
+  /* margin: auto; */
+}
+.flex {
+  display: flex;
+}
+p {
+  margin-left: 13px;
+  margin-top: -0px;
+}
+.borderbottom {
+  width: 100px;
+  height: 2px;
+  background-color: rgb(221, 220, 220);
+}
+.skip {
+  width: 1100px;
+  padding: 5px;
+  margin-left: 150px;
+  /* -------------------------------- margin-left has given here ------------------ */
+  margin-top: 350px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 16px;
+}

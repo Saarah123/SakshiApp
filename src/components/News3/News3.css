@@ -1,0 +1,83 @@
+.photos {
+  background-color: rgb(238, 238, 238);
+  width: 750px;
+  padding: 15px;
+  margin-top: 30px;
+}
+.photos > h2 {
+  margin-top: -15px;
+}
+.photosdiv-1 {
+  background-color: black;
+}
+.photosdiv-1 > img {
+  height: 80%;
+}
+.photosdiv-1 > p {
+  color: white;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: left;
+  margin-left: 10px;
+}
+.conatainer {
+  justify-content: center;
+  margin: auto;
+  display: flex;
+  gap: 50px;
+}
+.anchors {
+  background-color: rgb(238, 238, 238);
+  padding: 10px;
+  margin-top: 30px;
+}
+.anchors > h2 {
+  margin-top: -10px;
+}
+.anchorsdiv {
+  display: flex;
+  gap: 10px;
+}
+.anchorsdiv > div {
+  width: 100px;
+  /* height: 150px; */
+}
+.anchorsdiv > div > img {
+  width: 100px;
+  height: 100px;
+}
+.anchorsdiv > div > h4 {
+  margin-left: 10px;
+  margin-top: -1px;
+}
+.watch {
+  background-color: rgb(238, 238, 238);
+  padding: 10px;
+  margin-top: 25px;
+}
+.watchdiv > div > div {
+  display: flex;
+  gap: 15px;
+  width: 300px;
+}
+.watchdiv > div > div > img {
+  width: 100px;
+  height: 50px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.watch > h2 {
+  margin-top: -10px;
+}
+.watchdiv > div > div > h5 {
+  text-align: left;
+  margin-top: -0px;
+}
+
+.anchorsdiv > div > h4:hover,
+.watchdiv > div > div > h5:hover {
+  color: #193984;
+}
+.watchdiv > div > div > img:hover {
+  transform: scale(1.2);
+}

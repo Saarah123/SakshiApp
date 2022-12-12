@@ -1,0 +1,27 @@
+.data-container {
+  display: flex;
+  margin: auto;
+  width: 100%;
+  /* border: 1px solid black; */
+  margin-top: 20px;
+}
+.data-container img {
+  height: 200px;
+  border-radius: 5px;
+  width: 200px;
+  transition: all 0.5s ease 0s;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+.data-container img:hover {
+  transform: scale(1.1);
+}
+.inside-main {
+  margin-left: 40px;
+}
+#main_container {
+  margin: auto;
+  width: 80%;
+}

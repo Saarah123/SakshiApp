@@ -1,0 +1,248 @@
+.Signin_header{
+    height:50px;
+    width:100%;
+    border:  1px solid black;
+    display:flex;
+    background-color: black;
+    gap:55%;
+
+}
+.india{
+    font-family :Roboto-regular;
+    font-size:18px;
+    color:rgb(170, 170, 170);
+    margin-left:100px;
+    font-weight:300;
+
+}
+.img{
+    height: 100px;
+    width:70px;
+    margin-left:200px;
+    margin-top:-17px;
+}
+.top{
+    margin-left:40%;
+    font-size:35px;
+    line-height:36px;
+    vertical-align:top;
+    font-weight:500;
+    color:black;
+    font-family: Roboto-Regular;
+    margin-top:20px;
+
+
+}
+.top1{
+    margin-left:42%;
+    font-weight: 500;
+    font-family: Roboto-Regular ;
+    font-size:16px;
+    margin-top:-15px;
+    color:rgba(0, 0, 0, 0.822);
+}
+.top2{
+    color:rgb(208, 38, 44);
+    font-weight: 400;
+}
+.deco{
+    font-size:17px;
+    color:rgba(119,119,119);
+    font-family: Roboto-Regular;
+    text-align: center;
+    font-weight: 300;
+
+
+}
+.aa{
+    margin-left:47%;
+    margin-top:15px;
+}
+.sa{
+    margin-left:48%;
+    margin-top:15px;
+}
+.icon{
+    display:flex;
+    gap:30px;
+    margin-left:33%;
+}
+.hu{
+    display:flex;
+
+}
+.zz{
+    height:40px;
+    width:40px;
+}
+.twitter{
+    height:40px;
+    width:100px;
+    color:white;
+    background-color: rgb(29, 174, 227);
+    text-align: center;
+    font-size: 18px;
+
+
+}
+.fb{
+    height:40px;
+    width:100px;
+    color:white;
+    background-color: rgb(59, 89, 152);
+    text-align: center;
+    font-size: 18px;
+}
+.ggl{
+    height:40px;
+    width:100px;
+    color:black;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+    font-size: 18px;
+}
+.one{
+    font-size:20px;
+    color:rgba(119,119,119);
+    font-family: Roboto-Regular;
+    text-align: center;
+    font-weight: 600;
+    line-height:19px;
+    margin-left: 0 ;
+}
+.input1{
+    display :flex;
+    gap:30px;
+    margin-left:29.5%;
+}
+.input2{
+    display :flex;
+    gap:30px;
+    margin-left:28%;
+    padding:20px;
+}
+.country{
+    height: 50px;
+    font-size:13px;
+    font-family:Arial;
+    padding:5px;
+    width: 310px;
+}
+.name{
+    height: 40px;
+    font-size:13px;
+    font-family:Arial;
+    padding:5px;
+    width: 300px;
+
+}
+.email{
+    height: 40px;
+    font-size:13px;
+    font-family:Arial;
+    padding:5px;
+    width: 300px;
+
+}
+.password{
+    height: 40px;
+    font-size:13px;
+    font-family:Arial;
+    padding:5px;
+    width: 300px;
+
+}
+.box{
+    height:100px;
+    width:560px;
+    border: 1px solid transparent;
+    margin:auto;
+
+}
+.inpt{
+    width:12px;
+    height:12px;
+    }
+    .span{
+        font-size: 13px;
+        font-family:arial;
+        color:rgba(41, 41, 41, 0.884);
+        font-weight:700;
+    }
+    .ss{
+        margin-left:43%;
+        height:45px;
+        width:200px;
+        border-radius: 5px;
+        color:white;
+        background-color:rgb(21, 140, 245);
+        border: rgba(0, 119, 255, 0.815);
+        font-style:roboto-regular;
+        padding:10px;
+        margin-top:30px;
+        font-size:17px;
+
+    }
+    .tt{
+        width:630px;
+        height:30px;
+        border:1px solid transparent;
+        margin-left:30%;
+        display:flex;
+        gap:330px;
+        margin-top:20px;
+        
+
+    }
+    .pp{
+        color:grey;
+       font-size:13px;
+    }
+    .xx{
+        color:rgb(211, 19, 19);
+    }
+    .foot1{
+        height:30px;
+        width:600px;
+        background-color: rgb(232, 232, 238);
+        display:flex;
+        margin-left:30%;
+        padding:25px;
+        gap:25px;
+    }
+    .imgx{
+        width:50px;
+        height:30px;
+        padding:7px;
+    }
+    .network{
+        font-style:roboto-regulr;
+        height:14px;
+        color:rgb(100, 98, 98);
+        font-weight: 600;
+        margin-left:35px;
+        margin-top:10px;
+
+    }
+    .imgy{
+        height:50px;
+        width:60px;
+        background-color: white;
+        margin-top:-5px;
+        border-radius: 5px;
+        
+        
+    }
+    .foot2{
+        height:35px;
+        width:100%;
+        background-color:rgba(0, 0, 0, 0.918) ;
+        margin-top:30px;
+    }
+    .last{
+        font-size:13px;
+        color:grey;
+        padding:2px;
+        margin-left:30%;
+
+    }
