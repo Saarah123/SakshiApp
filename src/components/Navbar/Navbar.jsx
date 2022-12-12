@@ -14,8 +14,8 @@ export const Navbar = () => {
       <ul>
         <li>
           <a
-            href="https://www.indiatoday.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            href="https://www.mamp.info/namo/en/"
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
           Narendra Modi
           </a>
@@ -23,7 +23,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://malayalam.indiatoday.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             Malayalam
           </a>
@@ -31,7 +31,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.businesstoday.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             Business Today
           </a>
@@ -39,7 +39,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.dailyo.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             DailyO
           </a>
@@ -47,7 +47,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.aajtak.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             AajTak
           </a>
@@ -55,7 +55,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.thelallantop.com/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             Lallantop
           </a>
@@ -63,7 +63,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.thelallantop.com/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             Lallantop
           </a>
@@ -71,7 +71,7 @@ export const Navbar = () => {
         <li>
           <a
             href="https://www.gnttv.com/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             GNTTV
           </a>
@@ -80,7 +80,7 @@ export const Navbar = () => {
           {" "}
           <a
             href="https://www.readersdigest.in/"
-            style={{ textDecoration: "none", color: "gray", target: "_blank" }}
+            style={{ textDecoration: "none", color: "#12055d", target: "_blank" }}
           >
             Reader's Digest
           </a>

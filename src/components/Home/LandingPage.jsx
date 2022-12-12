@@ -179,7 +179,7 @@ export const LandingPage = () => {
               {visualnews.visualstories.map((e) => {
                 return (
                   <div className="visualnewsdiv">
-                    <img className="visualnewsimg" src={e.img} alt="" />
+                    <img className="visualnewsimg" src={e.img} alt=""/>
                     <h2 className="visualnewstitle">{e.title}</h2>
                   </div>
                 );

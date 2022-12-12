@@ -14,7 +14,7 @@ export const Signin = () => {
           alt="img"
         />
       </div>
-      <h3 className="top">Sign In To India Today</h3>
+      <h3 className="top">Sign In To NaMo</h3>
       <Link to="/register">
         {" "}
         <p className="top1">

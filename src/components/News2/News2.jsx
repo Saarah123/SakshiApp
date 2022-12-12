@@ -20,13 +20,13 @@ export const News2 = () => {
         "After Will Smith-Chris Rock Oscars slap, Academy promises to take 'appropriate action",
     },
     {
-      title: "IPL 2022",
-      img: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/000_1FE7JS_1200x768.jpeg?size=370:208",
-      desc: "IPL 2022: Excepting Kohli to score 600-plus runs this season, says deVilliers",
+      title: "FFIA 2022",
+      img: "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022?id=308756",
+      desc: "FIFA 2022: Excepting Neymar to score 600-plus runs this season, says deVilliers",
       point1:
-        "IPL 2022: Injuried Marsh out to Pakistan series, heades to india to join Delhi Capitals",
+        "FIFA 2022: Injuried Marsh out to Pakistan series, heades to india to join Delhi Capitals",
       point2:
-        "IPL 2022: Moody questions Williamson's controversial dismissal by 3rd umpire",
+        "FIFA 2022: Moody questions Williamson's controversial dismissal by 3rd umpire",
     },
     {
       title: "TECHNOLOGY",
